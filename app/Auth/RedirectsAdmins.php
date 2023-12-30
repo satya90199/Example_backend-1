@@ -6,7 +6,7 @@ trait RedirectsAdmins
 {
     /**
      * Get the post register / login redirect path.
-     *
+     * arijeet dutta
      * @return string
      */
     public function redirectPath()
