@@ -26,7 +26,7 @@ trait ThrottlesLogins
 
     /**
      * Increment the login attempts for the user.
-     *
+     *  akash patel
      * @param  \Illuminate\Http\Request  $request
      * @return void
      */
